@@ -7,6 +7,8 @@ export default function App() {
   );
 }
 
+// Happy Birthday to me!
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
