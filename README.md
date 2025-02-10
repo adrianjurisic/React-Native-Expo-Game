@@ -1,19 +1,20 @@
 ## Application Preview
 
 ### Number Input Screen
-![Number Input Screen](screenshots/1.jpg)
+<img src="screenshots/1.jpg" alt="Number Input Screen" width="300px" />
 
 ### Number Guess Screen
-![Number Guess Screen](screenshots/2.jpg)
+<img src="screenshots/2.jpg" alt="Number Guess Screen" width="300px" />
 
 ### Game Over Screen
-![Game Over Screen](screenshots/3.jpg)
+<img src="screenshots/3.jpg" alt="Game Over Screen" width="300px" />
 
 ### Landscape Mode - Number Input Screen
-![Landscape Mode - Number Input Screen](screenshots/4.jpg)
+<img src="screenshots/4.jpg" alt="Landscape Mode - Number Input Screen" width="600px" />
 
 ### Landscape Mode - Number Guess Screen
-![Landscape Mode - Number Guess Screen](screenshots/5.jpg)
+<img src="screenshots/5.jpg" alt="Landscape Mode - Number Guess Screen" width="600px" />
 
 ### Landscape Mode - Game Over Screen
-![Landscape Mode - Game Over Screen](screenshots/6.jpg)
+<img src="screenshots/6.jpg" alt="Landscape Mode - Game Over Screen" width="600px" />
+
